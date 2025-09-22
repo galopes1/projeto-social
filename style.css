@@ -31,3 +31,22 @@ section#telefone{
     height: 627px;
     background-image: url(imagens/frame-iphone.png);
 }
+
+
+
+
+/* section#redes{
+    display: flex;
+    align-items: flex-end;
+    gap: 5px;
+    flex-direction: column;
+    padding-top: 10px;
+    padding-right: 10px;
+}
+
+
+section#redes a > img{
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+}
