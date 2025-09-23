@@ -35,8 +35,8 @@ section#telefone{
 iframe#tela{
     position: relative;
     top: 80px;
-    left: 22px;
-    width: 267px;
+    left: 21px;
+    width: 269px;
     height: 471px;
 }
 
@@ -64,5 +64,5 @@ section#redes a > img:hover{
     border: 3px solid rgba(255, 255, 255, 0.61);
     transform: translate(-2px, -2px);
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.397);
-    transition: 0.5s, border 0.7s;
+    transition: 0.5s;
 }
